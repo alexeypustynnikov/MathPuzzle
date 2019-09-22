@@ -2,7 +2,7 @@
 
 Suppose one has matrix  
 
-![](https://www.codecogs.com/eqnedit.php?latex=\begin{pmatrix}&space;a&space;&&space;&&space;b\\&space;&&space;e&space;&&space;\\&space;c&space;&&space;&&space;d&space;\end{pmatrix})
+![](https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;a&space;&&space;&&space;b\\&space;&&space;e&space;&&space;\\&space;c&space;&&space;&&space;d&space;\end{pmatrix})
 
 The problem is to find number e if two pairs of numbers (a,b,c,d) is given (using only simple arithmetic operations (+, -, /, *)(brackets are allowed)).  
 
