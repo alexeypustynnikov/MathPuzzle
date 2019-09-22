@@ -2,7 +2,7 @@
 
 Suppose one has matrix  
 
-![](http://www.sciweavers.org/upload/Tex2Img_1568650832/render.png)
+![equation](http://www.sciweavers.org/upload/Tex2Img_1568650832/render.png)
 
 The problem is to find number e if two pairs of numbers (a,b,c,d) is given (using only simple arithmetic operations (+, -, /, *)(brackets are allowed)).  
 
@@ -10,7 +10,7 @@ The problem is to find number e if two pairs of numbers (a,b,c,d) is given (usin
 
 For two given matrices
 
-![](http://www.sciweavers.org/upload/Tex2Img_1568652380/render.png) ![](http://www.sciweavers.org/upload/Tex2Img_1568652347/render.png)
+![equation](http://www.sciweavers.org/upload/Tex2Img_1568652380/render.png) ![](http://www.sciweavers.org/upload/Tex2Img_1568652347/render.png)
 
 Find e using only simple arithmetic operations (+, -, /, *) (brackets are allowed).
 
