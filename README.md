@@ -10,7 +10,7 @@ The problem is to find number e if two pairs of numbers (a,b,c,d) is given (usin
 
 For two given matrices
 
-![](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%203%20%26%20%26%2022%5C%5C%20%26%204%20%26%20%5C%5C%2014%20%26%20%26%205%20%5Cend%7Bpmatrix%7D) ![](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%2012%20%26%20%26%2011%5C%5C%20%26%2028%20%26%20%5C%5C%2032%20%26%20%26%205%20%5Cend%7Bpmatrix%7D]
+![](https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%203%20%26%20%26%2022%5C%5C%20%26%204%20%26%20%5C%5C%2014%20%26%20%26%205%20%5Cend%7Bpmatrix%7D) ![(https://latex.codecogs.com/gif.latex?%5Cbegin%7Bpmatrix%7D%2012%20%26%20%26%2011%5C%5C%20%26%2028%20%26%20%5C%5C%2032%20%26%20%26%205%20%5Cend%7Bpmatrix%7D]
 
 Find e using only simple arithmetic operations (+, -, /, *) (brackets are allowed).
 
